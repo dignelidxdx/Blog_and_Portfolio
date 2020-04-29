@@ -1,3 +1,5 @@
+#Welcome
+
 Hi everyone. This is my blog about my knowledge of javacript and java. I'd like to show you a guide how to solve some problems! By the way i'd like to talk about softSkills!
 
 ## Blog 
@@ -11,10 +13,10 @@ Hi everyone. This is my blog about my knowledge of javacript and java. I'd like 
 
 ## Portfolio 🚀
 
-* Presentation 
-* Goal achieved 
-* Work
-* College
+* Presentation. 
+* Goal achieved. 
+* Work.
+* College.
 * Courses I made!
 
 ### I Love my destro Ubuntu v18.6
